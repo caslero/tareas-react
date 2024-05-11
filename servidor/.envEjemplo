@@ -1,0 +1,26 @@
+#Inicio de las variables para la conexion a la base de datos 
+SERVIDOR = 
+USUARIO = 
+PASSWORD = 
+BD = 
+#Fin de las variables para la conexion a la base de datos 
+
+#PUERTO es elnuero de puerto que se ejecuta el servidor
+PUERTO = 
+
+#REMITENTE y CORREO_REMITENTE, es el nombre y correo que le llega al cliente al
+#momento de aunticarse o cambiar la clave del correo que le llego
+REMITENTE = 
+CORREO_REMITENTE = 
+
+#Inicio. Estas variables se utilizan para generar el token de inicio de sesion
+JWT_SECRET = 
+JWT_EXPIRATION = 
+JWT_COOKIE_EXPIRES = 
+#Fin. Estas variables se utilizan para generar el token de inicio de sesion
+
+#Nodemailer, es decir, mailtrap
+HOST = 
+PORT = 
+USER = 
+PASS = 
